@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Kaydır Oyna",
+    "slug": "kaydir-oyna",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": { "bundleIdentifier": "com.seninadin.kaydiroyna", "supportsTablet": false },
+    "android": { "package": "com.seninadin.kaydiroyna" },
+    "plugins": [
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-3940256099942544~3347511713",
+          "iosAppId": "ca-app-pub-3940256099942544~1458002511"
+        }
+      ]
+    ]
+  }
+}
